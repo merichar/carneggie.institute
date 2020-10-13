@@ -1,0 +1,23 @@
+{
+  "name": "carneggie.institute",
+  "version": "1.0.0",
+  "description": "Website for carneggie.institute",
+  "dependencies": {},
+  "devDependencies": {
+    "surge": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "surge deploy/"
+  },
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/merichar/carneggie.institute.git"
+  },
+  "author": "Meg Richards <merichar@merichar.org>",
+  "bugs": {
+    "url": "https://github.com/merichar/carneggie.institute/issues"
+  },
+  "homepage": "https://github.com/merichar/carneggie.institute#readme"
+}
